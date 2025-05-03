@@ -1,0 +1,3 @@
+br\com\erickcloud\Startup.class
+br\com\erickcloud\model\Greeting.class
+br\com\erickcloud\controllers\GreetingController.class
